@@ -1,6 +1,6 @@
 # Abdul Rahman
-
-## Professional Profile
+<a href="https://www.linkedin.com/in/abdul-rahman-g/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+## Professional Summary
 
 HR Technology and Business Intelligence professional with 13+ years of experience in HR analytics, workforce reporting, HRIS functional implementation, and enterprise reporting strategy. MBA in Business Analytics and Certified Workday Pro in Reporting, with 5+ years leading HR analytics and reporting initiatives at VCU Health System.
 
@@ -85,7 +85,7 @@ I am also actively building applied AI skills through hands-on projects, includi
 - Built a sentiment analysis prototype that converted 2,500+ exit interview comments into sentiment scores, with the goal of reducing manual HRBP review by at least 70%.
 - Developed a dynamic HR capacity planning model across 7 HR sub-functions, supporting supply-demand analysis, HR-to-employee ratios, and scenario planning.
 - Built an AI-powered HR chatbot proof of concept using n8n, OpenAI, and vector embeddings for RAG-based HR policy Q&A and role-based access control.  
-  **Project Link:** []
+  **Project Link:** <a href="https://github.com/agulammo/HR-Connect---AI-powered-HR-chatbot">**HRConnectAI**
 
 ---
 ## Tools and Platforms
