@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/abdul-rahman-g/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ## Professional Summary
 
-HR Technology and Business Intelligence professional with 13+ years of experience in HR analytics, workforce reporting, HRIS functional implementation, and enterprise reporting strategy. MBA in Business Analytics and Certified Workday Pro in Reporting, with 5+ years leading HR analytics and reporting initiatives at VCU Health System.
+HR Technology and Business Intelligence professional with 15+ years of experience in HR analytics, workforce reporting, HRIS functional implementation, and enterprise reporting strategy. MBA in Business Analytics and Certified Workday Pro in Reporting, with 5+ years leading HR analytics and reporting initiatives at VCU Health System.
 
 My work sits at the intersection of HR, analytics, reporting governance, and HR technology enablement. I specialize in translating workforce data into decision-ready insights, building scalable reporting frameworks, and supporting HR transformation through systems, dashboards, and process improvement.
 
