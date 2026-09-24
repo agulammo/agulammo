@@ -25,20 +25,21 @@ I am also actively building applied AI skills through hands-on projects, includi
 ### Senior HR Business Intelligence Analyst  
 **VCU Health System** | Feb 2021 to Present
 
-#### HR Analytics and Reporting
-- Serve as SME for people analytics and reporting requests, delivering workforce insights for leaders, HR functions, and business stakeholders.
-- Partnered with senior HR leaders to develop HR capacity planning and DEI representation and pay gap models to forecast FTE demand across HR sub-functions.
-- Delivered recurring and ad hoc analysis across turnover, DEI, employee relations case trends, benefits utilization, open enrollment, compliance reporting, recruiting efficiency, FTE reconciliation, HR4U call volume, and provider compliance.
-- Developed a centralized HR analytics framework aligning KPI definitions and reporting standards across Workday, ServiceNow, and Tableau.
-- Own enterprise HR Workday reporting across Core HCM, Benefits, Compensation, Learning, Talent and Performance, and Recruiting.
-- Built 200+ Workday reports and dashboards, including Advanced, Matrix, Composite, Worksheet reports, and Discovery Boards.
-- Standardized HR measures including headcount, turnover, time to fill, and benefits enrollment to improve reporting consistency and reduce metric conflicts.
-- Led onboarding and mentorship of analysts through hands-on training in Workday reporting and Tableau dashboard development.
-
-#### AI and NLP Prototypes
-- Assessed Workday Illuminate AI and presented findings to HR leadership, including product components, intended business role, and functional gaps.
-- Analyzed Workday Recruiting Agent workflows and documented probable use cases, AI functions, and vendor clarification areas.
-- Built an NLP prototype to process 2,500+ exit interview comments into sentiment scores to reduce manual review effort.
+#### 
+•	Lead enterprise People Analytics and HR BI initiatives, partnering with senior HR leaders to translate workforce data into insights there by supporting workforce planning, and operational decisions.
+•	Collaborated with Sr. HR leaders to develop HR Capacity Planning and DEI Representation & Pay Gap Models, to forecast FTE demand by sub-function (HRBPs, TA, L&D, C&B, HR Ops, ER) and identify representation gaps across levels, functions, and pay bands.
+•	Analyzed turnover, recruiting efficiency, workforce demographics, employee relations, benefits utilization, compliance, and FTE trends.
+•	Analyzed benefit costs, enrollment trends, plan participation, and HR4U employee contact volumes during Open Enrollment, providing insights into benefit utilization and employee support demand.
+•	Developed an AI-enabled exit-interview analytics solution in Fabric that identified drivers of high performer attrition and provided actionable findings to the Head of HRBP.
+•	Managed migration of 24 HR dashboards from Tableau to Power BI (in MS Fabric environment) as part of enterprise transition to Microsoft Ecosystem.
+•	Designed an automated PTO liability workflow in Fabric, integrating PTO data through Fabric pipelines, applying projected balance and carryover rules, and enabling targeted employee notifications and HR reporting to reduce potential PTO payouts.
+•	Built Python-based automation for recurring onboarding reports and for HR Compliance and Compensation audits, reducing manual processing effort by approx. by 24 hours.
+•	Led 2 analyst in developing a centralized HR analytics framework, aligning KPI definitions and reporting standards across Workday, ServiceNow, and Tableau to ensure consistency in HR metrics and self-service dashboards.
+•	Own enterprise HR Workday reporting-built 200+ Advanced, Matrix, Composite, Worksheet reports, and Discovery Boards to support operational, compliance, and leadership decisions.
+•	Served as functional owner for reporting governance, defining KPI definitions and data standards with HR leaders; to reduce conflicting numbers across teams.
+•	Increased HR analytics capability and self-service adoption by training analysts and HR partners on Workday reporting, and Tableau/Power BI dashboards.
+•	Tableau Site and Power BI Admin for Enterprise HR, managing access, permissions, and dashboard publishing.
+•	Post live support for Workday/Service and Vndyl (in updating business process, and EIB’s)
 
 #### Data Security and Governance
 - Serve as Tableau Site Administrator for the Enterprise HR team.
