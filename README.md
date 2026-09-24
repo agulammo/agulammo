@@ -11,17 +11,12 @@ I am also actively building applied AI skills through hands-on projects, includi
 ---
 
 ## Core Expertise
-
-- HR Analytics and Workforce Reporting
-- Workday Reporting and Discovery Boards
-- Tableau and Executive Dashboards
-- ServiceNow HR Case Analytics
-- Workforce Planning and Capacity Modeling
-- DEI Representation and Pay Gap Analysis
-- HRIS Functional Implementation
-- Reporting Governance and KPI Standardization
-- SQL, Python, Tableau, Power BI
-- AI Prototyping for HR Use Cases
+ - HR Analytics and Reporting: Workday, ServiceNow and Tableau/Power BI for visualizations.
+ - HR Systems Functional Implementation: Functional requirements gathering to post-go live support.
+ - Workforce Planning & Scenario Modeling: Capacity planning, workforce demand forecasting, DEI representation, pay gap analysis, and headcount scenario modeling.
+ - Advanced Analytics: Statistical analysis, predictive modeling, and ML/AI experimentation using MS Fabric.
+ - Executive Dashboards and Data Storytelling. 
+ - Reports Automation: Python Script in VS Code
 
 ---
 
@@ -50,8 +45,9 @@ I am also actively building applied AI skills through hands-on projects, includi
 - Designed role-based and group-level security models in Workday and Tableau in partnership with ERP and analytics teams, reducing ad hoc access requests by 35% while supporting governance and privacy requirements.
 
 #### HRIS Functional Implementation
-- Supported ERP-led Vndly implementation through HR data loads, testing, security setup, reporting readiness, and end-user training.
-- Supported Workday migration by extracting and validating approximately 100K legacy records from UltiPro, contributing to ETL design, data quality resolution, and HR process mapping.
+- Supported functional implementation and enhancement of Workday, ServiceNow HRSD, and VNDLY, including requirements gathering, current-state/future-state process mapping, workflow design, and  functional specifications.
+- Partnered with HR, IT, and ERP team to translate business requirements into system solutions, validate configured functionality, coordinate functional testing/UAT, resolve defects, and support go-live and post-production stabilization.
+- Led and mentored 2 Business Analysts, coordinating requirements, process documentation, testing activities, stakeholder communication, and delivery across HR technology initiatives
 
 ---
 
@@ -75,7 +71,8 @@ I am also actively building applied AI skills through hands-on projects, includi
 **Nokia and Cognizant India** | Mar 2004 to Nov 2011
 
 - Supported global HR shared services through HR systems initiatives, reporting, and analytics across workforce administration, recruitment, payroll, benefits, and performance management.
-- Worked with SAP, PeopleSoft, Taleo, Kronos, PeopleLine, and HR data warehouse platforms to support reporting, dashboarding, and validation processes.
+- Formulated scenario models, statistical analysis and forecasting using advance excel supporting HR bsuiness units to optimize staffing strategies and resource deployment.
+- Worked with SAP, PeopleSoft, Taleo, Kronos,PeopleLine, and HR data warehouse platforms to support reporting, dashboarding, and validation processes.
 
 ---
 
@@ -94,7 +91,7 @@ I am also actively building applied AI skills through hands-on projects, includi
 Workday, ServiceNow HR Case Management, Vndly, SAP, PeopleSoft, Taleo, Kronos
 
 **Analytics and BI**  
-Tableau, Power BI, SQL, Python, Workday Dashboards, Discovery Boards
+Tableau, Power BI, Python, Workday Dashboards, Discovery Boards
 
 **Focus Areas**  
 People Analytics, Workforce Reporting, HRIS Implementation, Reporting Governance, HR Process Optimization, AI for HR
