@@ -4,7 +4,7 @@
 
 HR Technology and Business Intelligence professional with 15+ years of experience in HR analytics, workforce reporting, HRIS functional implementation, and enterprise reporting strategy. MBA in Business Analytics and Certified Workday Pro in Reporting, with 5+ years leading HR analytics and reporting initiatives at VCU Health System.
 
-My work spans HR systems, HR analytics and BI, reporting and data governance, process improvement, and HR technology enablement. I bring experience across HRIS functional implementation and HR analytics, translating business requirements into effective HR technology solutions and workforce data into decision-ready insights. My experience includes supporting HR system implementations, improving HR processes and workflows, building scalable reporting and analytics frameworks, and applying emerging technologies to improve how HR operates and makes decisions.
+My work spans HR systems, HR analytics and BI, workforce planning, reporting and data governance, process improvement, and HR technology enablement. I bring experience across HRIS functional implementation and workforce analytics, translating business requirements into effective HR technology solutions and workforce data into decision-ready insights. My experience includes supporting HR system implementations, developing workforce planning and analytics solutions, building scalable reporting frameworks, improving HR processes and workflows, and applying emerging technologies to improve HR operations and decision-making.
 
 I am also actively building applied AI skills through hands-on projects, including an AI-powered HR chatbot prototype and NLP-based sentiment analysis use cases in HR.
 
